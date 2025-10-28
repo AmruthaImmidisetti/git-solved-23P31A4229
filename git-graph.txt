@@ -1,0 +1,37 @@
+*   4ea8751 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/AmruthaImmidisetti/git-solved-23P31A4229
+|\  
+| * ea12c70 Add files via upload
+| * cadb542 Add files via upload
+* | 875df04 docs: Add changelog
+* | 46e1f0b docs: Add second merge conflict resolution details
+| | * 048426d (feature/another-feature) Bad commit
+| |/  
+|/|   
+| | * ed6451c (origin/feature/another-feature) feat: Add test feature
+| |/  
+|/|   
+* | 126e37c (tag: v1.1.0, tag: v1.0.0) docs: Update README
+|/  
+*   4d6e5dd Merge branch 'main' of https://github.com/AmruthaImmidisetti/git-solved-23P31A4229
+|\  
+| * 00b6dc3 Update student name and ID in README
+* | c4da473 feat: Add new feature
+* | a8607e1 docs: Add FAQ section
+| | * a024573 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| |/  
+|/|   
+* | 7d26103 merge: Resolve all conflicts between main and conflict-simulator branches
+* | 01e7c35 merge: Resolve all conflicts between main and conflict-simulator branches
+* |   8142eef merge: Resolve all conflicts between main and conflict-simulator branches
+|\ \  
+| |/  
+|/|   
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   9feaa10 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
